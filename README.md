@@ -42,16 +42,17 @@ which displays the job_id and title of each employee. The data contains 2 column
 2. The total number of employees in each department
 3. The three departments with the highest number of employees
 4. Who are the oldest and newest employees? Also, retrieve the date they joined the company and all information about them.
-5. The oldest and newest employee in each department. Hint: Use the Row_number Function and CTE
-6. The total number of information technology programmers in the company. Hint: Use the join statement
-7. The year difference between the date the oldest and newest employee joined the company.
-8. Who are the employees who earn below average? Retrieve their salaries and also their job title. Hint: Subquery is required
-9. Update the strings of the email column to the lowercase letters.
-10. You noticed that the commission column is empty. Delete the column from the table.
+5. The year the newest employee was hired.
+6. The oldest and newest employee in each department. Hint: Use the Row_number Function and CTE
+7. The total number of information technology programmers in the company. Hint: Use the join statement
+8. The year difference between the date the oldest and newest employee joined the company.
+9. Who are the employees who earn below average? Retrieve their salaries and also their job title. Hint: Subquery is required
+10. Update the strings of the email column to the lowercase letters.
+11. You noticed that the commission column is empty. Delete the column from the table.
 
 ## Code
 
-For the rest of the code, check the (add SQL query file path here)
+For the rest of the code, check SQL_queries.sql
 
 ```sql
 -- Create Database
