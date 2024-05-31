@@ -52,7 +52,7 @@ which displays the job_id and title of each employee. The data contains 2 column
 
 ## Code
 
-For the rest of the code, check [SQL_queries.sql](url)
+For the rest of the code, check [SQL_query.sql](url)
 
 ```sql
 -- Create Database
