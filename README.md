@@ -2,7 +2,7 @@
 
 ## Project Purpose
 
-The Employee dataset was obtained from a just-concluded Data Analysis BootCamp I participated in. This simple scenario-based project aims to explore the Employees Data to understand the number of employees in CodeNow Ltd, and their departments, and ascertain the oldest and newest employees in the company. 
+The Employees dataset was sourced from a recent Data Analysis BootCamp I attended. This project involves a scenario-based exploration of the Employees Data for CodeNow Ltd. The aim is to analyze the dataset to determine the number of employees, their respective departments, and identify both the longest-serving and the newest employees within the company.
 
 ## Scenario
 
@@ -52,7 +52,7 @@ which displays the job_id and title of each employee. The data contains 2 column
 
 ## Code
 
-For the rest of the code, check SQL_queries.sql
+For the rest of the code, check [SQL_queries.sql](url)
 
 ```sql
 -- Create Database
