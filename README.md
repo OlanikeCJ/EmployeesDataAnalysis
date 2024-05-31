@@ -52,8 +52,7 @@ which displays the job_id and title of each employee. The data contains 2 column
 
 ## Code
 
-For the rest of the code, check the SQL file => [SQL_query.sql]
-
+For the rest of the code, check the SQL file => [SQL_query.sql](https://github.com/OlanikeCJ/EmployeesDataAnalysis/commit/c7ffd22ad213a01598efc5c78a51e9893f6a5f9e)
 ```sql
 -- Create Database
 CREATE DATABASE IF NOT EXISTS EmployeeData;
